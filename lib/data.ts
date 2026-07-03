@@ -85,16 +85,16 @@ export const skills: Skill[] = [
 
 export const projects: Project[] = [
   {
-    title: "GamePoint Tournament Manager",
+    title: "GamePoint — Internet Cafe Rewards System",
     description:
-      "A comprehensive tournament management platform for esports and gaming events. Features real-time bracket generation, player profiles, match scheduling, and live score tracking.",
+      "Profile and points management platform for internet cafes. Customers earn points while playing games, with tournament features to follow. Built to enhance customer loyalty and engagement.",
     technologies: ["Next.js", "TypeScript", "PostgreSQL", "Docker", "AWS"],
-    type: "Full Stack Web Application",
+    type: "Web Application",
     highlights: [
-      "Real-time bracket generation",
-      "Player profile management",
-      "Match scheduling system",
-      "Live score tracking",
+      "Points-based rewards system",
+      "Customer profile management",
+      "Play-to-earn mechanics",
+      "Tournament event system",
     ],
     image: "/images/projects/gamepoint_hero.PNG",
     videos: [
