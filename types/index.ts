@@ -15,6 +15,10 @@ export interface Project {
   technologies: string[];
   type: string;
   highlights: string[];
+  image?: string;
+  videos?: { label: string; src: string }[];
+  githubUrl?: string;
+  liveUrl?: string;
 }
 
 export interface Experience {

@@ -85,6 +85,27 @@ export const skills: Skill[] = [
 
 export const projects: Project[] = [
   {
+    title: "GamePoint Tournament Manager",
+    description:
+      "A comprehensive tournament management platform for esports and gaming events. Features real-time bracket generation, player profiles, match scheduling, and live score tracking.",
+    technologies: ["Next.js", "TypeScript", "PostgreSQL", "Docker", "AWS"],
+    type: "Full Stack Web Application",
+    highlights: [
+      "Real-time bracket generation",
+      "Player profile management",
+      "Match scheduling system",
+      "Live score tracking",
+    ],
+    image: "/images/projects/gamepoint_hero.PNG",
+    videos: [
+      { label: "Tournament", src: "/videos/projects/gamepoint_tournament.mp4" },
+      { label: "Profile", src: "/videos/projects/gamepoint_profile.mp4" },
+      { label: "Login", src: "/videos/projects/gamepoint_login.mp4" },
+    ],
+    githubUrl: "https://github.com/markclarus1990/gamepoint",
+    liveUrl: "https://gamepoint-orpin.vercel.app/",
+  },
+  {
     title: "Hop On Hop Off Australia",
     description:
       "A comprehensive tourism platform for Australia's hop-on-hop-off bus network. Built with real-time booking, route tracking, and multi-language support for international travelers.",
@@ -96,6 +117,7 @@ export const projects: Project[] = [
       "Route optimization",
       "Payment integration",
     ],
+    githubUrl: "https://github.com/markclarus1990/hop-on-hop-off",
   },
   {
     title: "Water Refilling Management System",
@@ -109,6 +131,7 @@ export const projects: Project[] = [
       "Delivery scheduling",
       "Customer CRM",
     ],
+    githubUrl: "https://github.com/markclarus1990/water-refilling",
   },
   {
     title: "AI-Powered Analytics Dashboard",
@@ -122,6 +145,7 @@ export const projects: Project[] = [
       "Automated reporting",
       "ML model integration",
     ],
+    githubUrl: "https://github.com/markclarus1990/ai-analytics",
   },
   {
     title: "Spring Boot E-Commerce Backend",
@@ -135,6 +159,7 @@ export const projects: Project[] = [
       "Inventory management",
       "Order processing",
     ],
+    githubUrl: "https://github.com/markclarus1990/ecommerce-backend",
   },
   {
     title: "Mobile Learning Platform",
@@ -148,6 +173,7 @@ export const projects: Project[] = [
       "Interactive courses",
       "Push notifications",
     ],
+    githubUrl: "https://github.com/markclarus1990/mobile-learning",
   },
   {
     title: "Laravel CRM System",
@@ -161,6 +187,7 @@ export const projects: Project[] = [
       "Analytics dashboard",
       "Role-based access",
     ],
+    githubUrl: "https://github.com/markclarus1990/laravel-crm",
   },
 ];
 
