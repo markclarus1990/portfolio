@@ -10,7 +10,7 @@ import type {
 export const personalInfo = {
   name: "Mark Michael Angelo Clarus",
   title: "Full Stack Developer",
-  email: "mark.clarus@example.com",
+  email: "markclarus1990@gmail.com",
   location: "Philippines",
   available: true,
   availableText: "Available for Freelance & Full-Time",
