@@ -87,8 +87,8 @@ export default function RootLayout({
               jobTitle: "Full Stack Developer",
               url: "https://markclarus.dev",
               sameAs: [
-                "https://github.com/markclarus",
-                "https://linkedin.com/in/markclarus",
+                "https://github.com/markclarus1990",
+                "https://www.linkedin.com/in/mark-clarus-9b8187158/",
               ],
             }),
           }}

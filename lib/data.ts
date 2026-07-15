@@ -37,17 +37,17 @@ export const navItems: NavItem[] = [
 export const socialLinks: SocialLink[] = [
   {
     name: "GitHub",
-    url: "https://github.com/markclarus",
+    url: "https://github.com/markclarus1990",
     icon: "github",
   },
   {
     name: "LinkedIn",
-    url: "https://linkedin.com/in/markclarus",
+    url: "https://www.linkedin.com/in/mark-clarus-9b8187158/",
     icon: "linkedin",
   },
   {
     name: "Email",
-    url: "mailto:mark.clarus@example.com",
+    url: "mailto:markclarus1990@gmail.com",
     icon: "mail",
   },
 ];
