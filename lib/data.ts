@@ -106,6 +106,21 @@ export const projects: Project[] = [
     liveUrl: "https://gamepoint-orpin.vercel.app/",
   },
   {
+    title: "MarkPos — Point of Sale System",
+    description:
+      "Modern point of sale system with inventory management, sales tracking, and detailed analytics. Designed for retail businesses to streamline operations and improve efficiency.",
+    technologies: ["Next.js", "TypeScript", "PostgreSQL", "Tailwind CSS"],
+    type: "Web Application",
+    highlights: [
+      "Inventory management",
+      "Sales tracking & analytics",
+      "Customer management",
+      "Receipt generation",
+    ],
+    image: "/images/projects/pos/pos-pos.PNG",
+    liveUrl: "https://markpos.vercel.app/",
+  },
+  {
     title: "Hop On Hop Off Australia",
     description:
       "A comprehensive tourism platform for Australia's hop-on-hop-off bus network. Built with real-time booking, route tracking, and multi-language support for international travelers.",
